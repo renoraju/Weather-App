@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box; 
+    margin: 0;  
+    padding: 0;
+}
+body{
+   font-family: sans-serif;
+
+}
+
+.current-citybox{
+   display: inline;
+   background-color: lightblue;
+  
+
+
+}
+
+#fetch-button {
+width: 100%;
+
+
+}
+
+.weather-forecast-item{
+ border: blue 2px solid;
+ border-radius: 5px ;
+ color: white;
+ background-color: lightblue;
+ padding: 20px;
+
+}
+
+
+
+
+#future-forecast {
+   display: flex;
+   justify-content: space-around;
+     
+
+}
